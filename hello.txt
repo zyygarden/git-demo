@@ -15,5 +15,5 @@ hello feiwu hello git!
 hello feiwu hello git!
 hello feiwu hello git!
 hello feiwu hello git!
-hello feiwu hello git!
+hello feiwu hello git! master.test
 hello feiwu hello git!
